@@ -3,6 +3,7 @@ This is an off-line price comparison application, which can let users input seve
 give the lowest price.
 
 ![priceCompareApp](https://cloud.githubusercontent.com/assets/17036821/22220294/1c515934-e17c-11e6-88dd-1a0374601676.png)
+
 Input a price with its corresponding currency and an amount with its corresponding unit, then click on "+" button, then this price and amount can be added to the table. 
 Click on "-" button, then the latest price will be deleted from the table.
 Click on "AC" button, then all price stored in the table will be deleted.
